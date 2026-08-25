@@ -1,0 +1,15 @@
+{
+  "name": "ai-chatbot",
+  "version": "1.0.0",
+  "description": "Responsive AI Chatbot",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "@google/genai": "*",
+    "cors": "*",
+    "dotenv": "*",
+    "express": "*"
+  }
+}
