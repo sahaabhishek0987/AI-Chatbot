@@ -6,7 +6,7 @@
 ![HTML5/CSS3/JS](https://img.shields.io/badge/Frontend-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Marked.js](https://img.shields.io/badge/Marked.js-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
-A cross-platform, full-stack AI chatbot application. Built with a Node.js/Express backend to securely interface with the **Google Gemini API (gemini-3.6-flash)**. The frontend features a beautiful, modern **Glassmorphism** design with animated gradients and rich text Markdown support.
+A full-stack AI chatbot application. Built with a Node.js/Express backend to securely interface with the **Google Gemini API (gemini-3.6-flash)**. The frontend features a beautiful, modern **Glassmorphism** design with animated gradients and rich text Markdown support.
 
 ---
 
