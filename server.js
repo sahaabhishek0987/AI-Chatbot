@@ -11,7 +11,7 @@ app.post('/api/chat', async (req, res) => {
     try {
         const { message } = req.body;
         const response = await ai.models.generateContent({
-            model: 'gemini-3.7-flash',
+            model: 'Gemini-3.5-Flash-Lit',
             contents: message,
         });
         res.json({ reply: response.text });
